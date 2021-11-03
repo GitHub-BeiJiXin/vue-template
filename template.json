@@ -1,0 +1,26 @@
+[
+    {
+        "name": "name",
+        "description": "your project name?",
+        "type": "input",
+        "options": []
+    },
+    {
+        "name": "private",
+        "description": "your project Is it private?",
+        "type": "radio",
+        "options": ["Yes", "No"]
+    },
+    {
+        "name": "author",
+        "description": "author is?",
+        "type": "input",
+        "options": []
+    },
+    {
+        "name": "description",
+        "description": "your of project description?",
+        "type": "input",
+        "options": []
+    }
+]
